@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-12T11:47:09+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">IT Technical Blog</title><subtitle>IT 전반의 Tech 지식을 담은 블로그</subtitle><entry><title type="html">NFT 쉽게 이해하기</title><link href="http://localhost:4000/blockchain-2" rel="alternate" type="text/html" title="NFT 쉽게 이해하기" /><published>2022-04-10T10:00:00+09:00</published><updated>2022-04-10T10:00:00+09:00</updated><id>http://localhost:4000/blockchain-2</id><content type="html" xml:base="http://localhost:4000/blockchain-2">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NFT 기초지식이 부족한 사람들을 위한 NFT 가이드&lt;/span&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-12T12:20:47+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">IT Technical Blog</title><subtitle>IT 전반의 Tech 지식을 담은 블로그</subtitle><entry><title type="html">NFT 쉽게 이해하기</title><link href="http://localhost:4000/blockchain-2" rel="alternate" type="text/html" title="NFT 쉽게 이해하기" /><published>2022-04-10T10:00:00+09:00</published><updated>2022-04-10T10:00:00+09:00</updated><id>http://localhost:4000/blockchain-2</id><content type="html" xml:base="http://localhost:4000/blockchain-2">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NFT 기초지식이 부족한 사람들을 위한 NFT 가이드&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;!-- &lt;li&gt;&lt;a href=&quot;./blockchain-basic&quot;&gt;블록체인 개요 (1)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./blockchain-2&quot;&gt;블록체인 개요 (2)&lt;/a&gt;&lt;/li&gt; --&gt;
@@ -7,13 +7,16 @@
 &lt;p&gt;안녕하세요. Monee입니다. 😀  NFT를 활용한 프로젝트에 합류하기 전, 저처럼 NFT에 대한 기초지식이 부족한 분들을 위한 포스팅을 준비해봤습니다.&lt;/p&gt;
 
 &lt;p&gt;요즘 뉴스뿐 만 아니라 일상 생활에서 NFT가 화제거리로 많이 다뤄지고 있습니다. 여러 분야의 회사와 연예인, 유명인들이 NFT에 대해 관심을 갖고 달려드는 불타는 감자가 되고 있어요. 그렇지만 전혀 관심이 없던 사람에게는 NFT는 정확히 무엇이고, 어떤 점에서 이목을 끌게 됐는지 알 수 없을 것 입니다.
-첫 게시글인 ‘블록체인 입문자를 위한 NFT 가이드’를 보고 이해해봅시다. :D&lt;/p&gt;
+첫 게시글인 ‘블록체인 입문자를 위한 NFT 가이드’를 보고 이해해봅시다. :D
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;nft란&quot;&gt;NFT란?&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/nft-640.jpg&quot; alt=&quot;nft&quot; /&gt;
 NFT(Non-Fungible-Token)의 사전적 정의는, 대체 불가능한 토큰이라는 뜻으로, 희소성을 갖는 디지털 자산을 대표하는 토큰을 말해요. NFT는 블록체인 기술을 활용하지만, 기존의 가상자산과 달리 디지털 자산에 별도의 고유한 인식 값을 부여하고 있어 상호교환이 불가능하다는 특징이 있어요.&lt;/p&gt;
 
-&lt;p&gt;‘대체 불가능’, ‘토큰’, ‘디지털 자산’ 등 과 같은 블록체인 관련 키워드는 처음 들었을 때 잘 이해가 안갈 수 있습니다. 핵심 키워드인 만큼 제대로 이해해야하니 아래 글에서 알아보도록 해요!&lt;/p&gt;
+&lt;p&gt;‘대체 불가능’, ‘토큰’, ‘디지털 자산’ 등 과 같은 블록체인 관련 키워드는 처음 들었을 때 잘 이해가 안갈 수 있습니다. 핵심 키워드인 만큼 제대로 이해해야하니 아래 글에서 알아보도록 해요!
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;그럼-기존의-ft와-뭐가-다를까&quot;&gt;그럼 기존의 FT와 뭐가 다를까?&lt;/h3&gt;
 &lt;p&gt;먼저 NFT를 제대로 이해하기 위해서는 “토큰” 과 “대체불가능” 개념이 매우 중요해요!&lt;/p&gt;
@@ -35,7 +38,8 @@ NFT(Non-Fungible-Token)의 사전적 정의는, 대체 불가능한 토큰이라
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/jordan.jpg&quot; alt=&quot;조던운동화&quot; /&gt;
 NFT가 핫한 이유는 이러한 &lt;strong&gt;유.일.&lt;/strong&gt;하다는 점입니다. 비슷한 사례로 지드래곤의 피마원, 나이키 조던 운동화, 아이앱 트레이닝복 등이 있어요. 이 제품들은 전 세계에서 유일하진 않지만 희소하기 때문에 사람들의 이목을 끌기도 하고 중고 시장에서 자주 리셀(resell)되고 있습니다.&lt;/p&gt;
 
-&lt;p&gt;NFT를 활성화함으로써, 오프라인에 한정되어 있던 재산권과 소유권을 디지털 세상으로 확장할 수 있습니다. 그리고 크리에이터 경제(Creator Economy)를 견인하고 진입장벽을 낮춰 많은 창작자와 중소기업에게 기회를 줄 수 있고, 그에 따라 다양한 산업에서 실질적인 비즈니스를 창출하게 됩니다.&lt;/p&gt;
+&lt;p&gt;NFT를 활성화함으로써, 오프라인에 한정되어 있던 재산권과 소유권을 디지털 세상으로 확장할 수 있습니다. 그리고 크리에이터 경제(Creator Economy)를 견인하고 진입장벽을 낮춰 많은 창작자와 중소기업에게 기회를 줄 수 있고, 그에 따라 다양한 산업에서 실질적인 비즈니스를 창출하게 됩니다.
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;nft의-사례로-어떤게-있을까&quot;&gt;NFT의 사례로 어떤게 있을까?&lt;/h3&gt;
 &lt;ul&gt;
@@ -45,7 +49,9 @@ NFT가 핫한 이유는 이러한 &lt;strong&gt;유.일.&lt;/strong&gt;하다는
   &lt;li&gt;셀카 NFT로 14억 번 22세 인도네시아 대학생&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;⇒ 이 사례들 외에도 아주 다양한 NFT가 있습니다. NFT를 낙찰 받은 사람은 해당 NFT를 라이센스화, 재판매, 배포 모두 당연히 가능합니다.&lt;/p&gt;
+&lt;p&gt;⇒ 이 사례들 외에도 아주 다양한 NFT가 있습니다. NFT를 낙찰 받은 사람은 해당 NFT를 라이센스화, 재판매, 배포 모두 당연히 가능합니다.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;nft-어떻게-구매할까&quot;&gt;NFT 어떻게 구매할까?&lt;/h2&gt;
 &lt;h3 id=&quot;개인이-nft를-구매하고싶을-때의-절차는&quot;&gt;개인이 NFT를 구매하고싶을 때의 절차는?&lt;/h3&gt;
@@ -64,7 +70,8 @@ NFT가 핫한 이유는 이러한 &lt;strong&gt;유.일.&lt;/strong&gt;하다는
 &lt;p&gt;&lt;strong&gt;3. NFT 구매하기&lt;/strong&gt;
 &lt;img src=&quot;/assets/built/images/opensea-explore.png&quot; alt=&quot;explore&quot; /&gt;
 &lt;img src=&quot;/assets/built/images/buy-nft.png&quot; alt=&quot;buy&quot; /&gt;
-오픈시 사이트의 메인 화면에서 Explore 버튼을 누르면 구매 가능한 다양한 콜렉션을 확인할 수 있습니다. 한 콜렉션을 선택해서 들어가면 그 상품을 구매할 수 있는 Buy now 버튼이 보입니다. 상품 구매를 하면 가스비를 지불함으로써 NFT를 구매할 수 있게 됩니다. 가스비는 일종의 수수료를 의미합니다.&lt;/p&gt;
+오픈시 사이트의 메인 화면에서 Explore 버튼을 누르면 구매 가능한 다양한 콜렉션을 확인할 수 있습니다. 한 콜렉션을 선택해서 들어가면 그 상품을 구매할 수 있는 Buy now 버튼이 보입니다. 상품 구매를 하면 가스비를 지불함으로써 NFT를 구매할 수 있게 됩니다. 가스비는 일종의 수수료를 의미합니다.
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;nft-상품화minting-방법-for-developer&quot;&gt;NFT 상품화(minting) 방법 (for developer)&lt;/h3&gt;
 &lt;p&gt;여기서 잠깐, 개발자들의 입장에서 NFT를 어떻게 상품화하는지 추가로 설명해드리겠습니다! (참고: 유튜브 블록체인3.0 NFT GAME https://www.youtube.com/watch?v=NK1KDuUDd2Y&amp;amp;list=PLBPLDFduFqwN-BWbHOBkGVeBD_J33GESr&amp;amp;index=4) 
@@ -87,7 +94,9 @@ NFT는 대체로 ERC-721 or ERC 115를 적용해서 민팅을 합니다.
 &lt;p&gt;&lt;strong&gt;4. 오프라인 자산을 디지털 자산과 연동한다.&lt;/strong&gt;&lt;br /&gt;
 강남의 100억 빌딩을 NFT 형태로 판매한다고 가정해봅시다. 그럼 그 강남 빌딩을 999개로 NFT를 증설하여 판매할 수 있게 됩니다. 여기서 사람들이 이 사실을 어떻게 믿을지 증명할 수 있는 무언가가 필요합니다. 그 무언가는 신탁업체가 해줄 수 있습니다. 신탁업체가 그 빌딩을 매입하고, 매입된 가치를 신탁업체에서 보증하고, 신탁업체가 보증한 NFT 증서들을 발행합니다. 그러면 건물이 팔리거나 월세가 발생하거나 할 때 NFT 소유자들이 혜택을 받을 수 있습니다. 즉, 오프라인의 자산의 가치를 온라인으로 사람들에게 자유롭게 거래하거나 판매할 수 있는 형태로 바꿔주게 됩니다.
 &lt;!-- %%-&gt; 이걸 어떻게 믿어? -&gt; 신탁 업체가 그 빌딩을 매입을 하고, 매입된 가치를 신탁 업체에서 보증을 하고, 이 신탁업체가 보증한 nft 증서들을 발행함 -&gt; 건물이 팔리거나 월세가 발생하거나 하면 nft 소유자들이 혜택을 받음
-즉, 오프라인의 자산의 가치를 온라인으로 사람들에게 자유롭게 거래하거나 판매할 수 있는 형태로 바꿔줌%% --&gt;&lt;/p&gt;
+즉, 오프라인의 자산의 가치를 온라인으로 사람들에게 자유롭게 거래하거나 판매할 수 있는 형태로 바꿔줌%% --&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;nft는-왜-게임시장에서-유독-자주-거론될까&quot;&gt;NFT는 왜 게임시장에서 유독 자주 거론될까?&lt;/h2&gt;
 &lt;p&gt;NFT에 대해 알아보면 유독 NFT 게임에 대한 내용을 많이 발견할 수 있습니다. 실제로 넥슨, 넷마블, 엔씨소프트, 엔에이치엔(NHN), 펄어비스, 크래프톤, 위메이드, 컴투스, 카카오게임즈, 네오위즈 등 게임사에서 NFT를 중요하게 다루고 있습니다.&lt;/p&gt;
@@ -99,9 +108,10 @@ NFT는 대체로 ERC-721 or ERC 115를 적용해서 민팅을 합니다.
 
 &lt;p&gt;사용자는 게임을 하면서 돈을 벌 수 있을 뿐만 아니라 현실 세계의 자산 형태로 교환할 수 있게 됐습니다. 또한 여기서 그치지 않고 게임 내 아이템과 토지를 NFT와 연결했습니다. NFT가 고유의 가치를 증명해 주면서 상품의 가치는 더욱 높아질 수 있었습니다.&lt;/p&gt;
 
-&lt;p&gt;P2E는 놀면서 돈을 벌 수 있고, 블록체인 기술 대중화, 개발자도 돈을 벌 수 있다는 장점이 있습니다. 하지만, 재미를 추구하는 게임의 본질이 노동으로 변질될 가능성, 비싼 입장료, 손실의 우려가 있다는 단점 또한 존재합니다.&lt;/p&gt;
-
+&lt;p&gt;P2E는 놀면서 돈을 벌 수 있고, 블록체인 기술 대중화, 개발자도 돈을 벌 수 있다는 장점이 있습니다. 하지만, 재미를 추구하는 게임의 본질이 노동으로 변질될 가능성, 비싼 입장료, 손실의 우려가 있다는 단점 또한 존재합니다.
 &lt;!-- %%(출처 : 코인데스크 코리아 (http://www.coindeskkorea.com/news/articleView.html?idxno=78459))%% --&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;sns-프로필-속-nft-아바타의-정체&quot;&gt;SNS 프로필 속 NFT 아바타의 정체??&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/pfp-drawing.png&quot; alt=&quot;pfp&quot; /&gt;
@@ -120,22 +130,20 @@ ex) - 투자냐, 투기냐
 - 법적인 내용
 - 저작권과 소유권이 다름-&gt; 분리에 따른 문제-&gt;그림을 그린사람과 실제 소유자의 관계
 - nft는 유일하다고 하는데 nft 그림은 디지털이라 복제가 가능함. 그런 그림들은 어디서 저장되고 어떻게 관리되고 있는가 --&gt;
-
 &lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;부록-블록체인-핵심-키워드에-대한-한-줄-설명&quot;&gt;(부록) 블록체인 핵심 키워드에 대한 한 줄 설명&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;디지털 화폐 = 토큰&lt;/li&gt;
-  &lt;li&gt;에디션&lt;/li&gt;
-  &lt;li&gt;마켓&lt;/li&gt;
-  &lt;li&gt;옥션&lt;/li&gt;
-  &lt;li&gt;디지털아트&lt;/li&gt;
-  &lt;li&gt;메타버스&lt;/li&gt;
-  &lt;li&gt;에어드랍&lt;/li&gt;
-  &lt;li&gt;소유권&lt;/li&gt;
-  &lt;li&gt;토큰 = 디지털화폐&lt;/li&gt;
-  &lt;li&gt;FTX : 거래소&lt;/li&gt;
+  &lt;li&gt;디지털 화폐 = 토큰 : 단순히 코인을 뜻하는 단어가 아니라, 블록체인상에 저장된 특정 자산&lt;/li&gt;
+  &lt;li&gt;민팅(Minting) : NFT를 발행하는 것으로 그림, 영상 등의 디지털 자산의 NFT를 생성하는 것&lt;/li&gt;
+  &lt;li&gt;드롭(drop) : NFT를 타인에게 판매하기 위해서 NFT 마켓 플레이스를 통해 업로드하는 것&lt;/li&gt;
+  &lt;li&gt;에어드롭(Airdrop) : NFT 작품을 무료로 제공하는 것&lt;/li&gt;
+  &lt;li&gt;메타버스 : 가상을 뜻하는 ‘메타(Meta)’ + 하나의 세계를 의미하는 ‘유니버스(universe)’, 3차원 공간에 구축된 가상 세계에서 이용자들이 자신의 아바타를 가지고 교육, 사교, 업무, 여가 등 다양한 활동을 할 수 있게 한 서비스&lt;/li&gt;
+  &lt;li&gt;화이트리스트(Whitelist) : NFT를 초기에 싸게 살 수 있는 권리&lt;/li&gt;
+  &lt;li&gt;FTX : 전문 트레이더가 구축 한 암호 화폐 파생 거래소&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>MoKyungKim</name></author><category term="blockchain" /><summary type="html">NFT 기초지식이 부족한 사람들을 위한 NFT 가이드</summary></entry><entry><title type="html">프론트엔드 개요</title><link href="http://localhost:4000/frontend-basic" rel="alternate" type="text/html" title="프론트엔드 개요" /><published>2022-04-01T00:00:00+09:00</published><updated>2022-04-01T00:00:00+09:00</updated><id>http://localhost:4000/frontend-basic</id><content type="html" xml:base="http://localhost:4000/frontend-basic">&lt;p&gt;이 글은 프론트엔드 개요에 대해 작성했습니다.&lt;/p&gt;</content><author><name>MoKyungKim</name></author><category term="frontend" /><summary type="html">이 글은 프론트엔드 개요에 대해 작성했습니다.</summary></entry><entry><title type="html">백엔드 개요</title><link href="http://localhost:4000/blockchain-basic" rel="alternate" type="text/html" title="백엔드 개요" /><published>2022-03-31T00:00:00+09:00</published><updated>2022-03-31T00:00:00+09:00</updated><id>http://localhost:4000/blockchain-basic</id><content type="html" xml:base="http://localhost:4000/blockchain-basic">&lt;p&gt;이 글은 백엔드 개요에 대해 작성했습니다.&lt;/p&gt;</content><author><name>MoKyungKim</name></author><category term="backend" /><summary type="html">이 글은 백엔드 개요에 대해 작성했습니다.</summary></entry><entry><title type="html">블록체인 개요 (1)</title><link href="http://localhost:4000/blockchain-basic" rel="alternate" type="text/html" title="블록체인 개요 (1)" /><published>2022-03-31T00:00:00+09:00</published><updated>2022-03-31T00:00:00+09:00</updated><id>http://localhost:4000/blockchain-basic</id><content type="html" xml:base="http://localhost:4000/blockchain-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NFT 기초지식이 부족한 사람들을 위한 NFT 가이드&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;!-- &lt;li&gt;&lt;a href=&quot;./blockchain-basic&quot;&gt;블록체인 개요 (1)&lt;/a&gt;&lt;/li&gt;
