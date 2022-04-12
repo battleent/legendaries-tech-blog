@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://localhost:4000/tag/blockchain/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-04-12T12:20:47+09:00</updated>
+  <updated>2022-04-12T14:04:28+09:00</updated>
   <id>http://localhost:4000/tag/blockchain/feed.xml</id>
 
   
@@ -30,6 +30,41 @@
   
   
 
+  
+    <entry>
+      <title type="html">테스팅하기</title>
+      <link href="http://localhost:4000/testing2" rel="alternate" type="text/html" title="테스팅하기" />
+      <published>2022-04-10T10:00:00+09:00</published>
+      <updated>2022-04-10T10:00:00+09:00</updated>
+      <id>http://localhost:4000/testing2</id>
+      <content type="html" xml:base="http://localhost:4000/testing2">&lt;p&gt;&lt;img src=&quot;/assets/built/images/nft-640.jpg&quot; alt=&quot;이미지&quot; /&gt;
+테스팅하기&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>MoKyungKim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blockchain" />
+      
+
+      
+        <summary type="html">테스팅하기</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">NFT 쉽게 이해하기</title>
@@ -112,7 +147,7 @@ NFT가 핫한 이유는 이러한 &lt;strong&gt;유.일.&lt;/strong&gt;하다는
 오픈시 사이트의 메인 화면에서 Explore 버튼을 누르면 구매 가능한 다양한 콜렉션을 확인할 수 있습니다. 한 콜렉션을 선택해서 들어가면 그 상품을 구매할 수 있는 Buy now 버튼이 보입니다. 상품 구매를 하면 가스비를 지불함으로써 NFT를 구매할 수 있게 됩니다. 가스비는 일종의 수수료를 의미합니다.
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;nft-상품화minting-방법-for-developer&quot;&gt;NFT 상품화(minting) 방법 (for developer)&lt;/h3&gt;
+&lt;h3 id=&quot;nft-상품화minting-for-developer&quot;&gt;NFT 상품화(minting) (for developer)&lt;/h3&gt;
 &lt;p&gt;여기서 잠깐, 개발자들의 입장에서 NFT를 어떻게 상품화하는지 추가로 설명해드리겠습니다! (참고: 유튜브 블록체인3.0 NFT GAME https://www.youtube.com/watch?v=NK1KDuUDd2Y&amp;amp;list=PLBPLDFduFqwN-BWbHOBkGVeBD_J33GESr&amp;amp;index=4) 
 아래의 번호는 순서가 아닌 특징을 나열한 것입니다.&lt;/p&gt;
 
@@ -252,6 +287,43 @@ ex) - 투자냐, 투기냐
 
       
         <summary type="html">NFT 기초지식이 부족한 사람들을 위한 NFT 가이드</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">테스팅</title>
+      <link href="http://localhost:4000/testing" rel="alternate" type="text/html" title="테스팅" />
+      <published>2022-02-28T10:00:00+09:00</published>
+      <updated>2022-02-28T10:00:00+09:00</updated>
+      <id>http://localhost:4000/testing</id>
+      <content type="html" xml:base="http://localhost:4000/testing">&lt;h2 id=&quot;제목&quot;&gt;제목&lt;/h2&gt;
+&lt;h3 id=&quot;부제목&quot;&gt;부제목&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/built/images/nft-640.jpg&quot; alt=&quot;nft&quot; /&gt;
+포스팅 test 합니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>MoKyungKim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blockchain" />
+      
+
+      
+        <summary type="html">제목 부제목 포스팅 test 합니다.</summary>
       
 
       

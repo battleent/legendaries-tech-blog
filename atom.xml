@@ -8,6 +8,21 @@
     
       
       <item>
+        <title>테스팅하기</title>
+        
+          <description>&lt;p&gt;&lt;img src=&quot;/assets/built/images/nft-640.jpg&quot; alt=&quot;이미지&quot; /&gt;
+테스팅하기&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 10 Apr 2022 10:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/testing2</link>
+        <guid isPermaLink="true">http://localhost:4000/testing2</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>NFT 쉽게 이해하기</title>
         
           <description>
@@ -85,6 +100,23 @@
         <link>
         http://localhost:4000/gettysburg-address</link>
         <guid isPermaLink="true">http://localhost:4000/gettysburg-address</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>테스팅</title>
+        
+          <description>&lt;h2 id=&quot;제목&quot;&gt;제목&lt;/h2&gt;
+&lt;h3 id=&quot;부제목&quot;&gt;부제목&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/built/images/nft-640.jpg&quot; alt=&quot;nft&quot; /&gt;
+포스팅 test 합니다.&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 28 Feb 2022 10:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/testing</link>
+        <guid isPermaLink="true">http://localhost:4000/testing</guid>
       </item>
       
     

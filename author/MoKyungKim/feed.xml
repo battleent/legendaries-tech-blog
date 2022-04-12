@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-12T14:04:28+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">IT Technical Blog</title><subtitle>IT 전반의 Tech 지식을 담은 블로그</subtitle><entry><title type="html">NFT 쉽게 이해하기</title><link href="http://localhost:4000/blockchain-2" rel="alternate" type="text/html" title="NFT 쉽게 이해하기" /><published>2022-04-10T10:00:00+09:00</published><updated>2022-04-10T10:00:00+09:00</updated><id>http://localhost:4000/blockchain-2</id><content type="html" xml:base="http://localhost:4000/blockchain-2">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NFT 기초지식이 부족한 사람들을 위한 NFT 가이드&lt;/span&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/author/MoKyungKim/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2022-04-12T14:04:28+09:00</updated>
+  <id>http://localhost:4000/author/MoKyungKim/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">IT Technical Blog | </title>
+  
+
+  
+    <subtitle>IT 전반의 Tech 지식을 담은 블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">NFT 쉽게 이해하기</title>
+      <link href="http://localhost:4000/blockchain-2" rel="alternate" type="text/html" title="NFT 쉽게 이해하기" />
+      <published>2022-04-10T10:00:00+09:00</published>
+      <updated>2022-04-10T10:00:00+09:00</updated>
+      <id>http://localhost:4000/blockchain-2</id>
+      <content type="html" xml:base="http://localhost:4000/blockchain-2">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NFT 기초지식이 부족한 사람들을 위한 NFT 가이드&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;!-- &lt;li&gt;&lt;a href=&quot;./blockchain-basic&quot;&gt;블록체인 개요 (1)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./blockchain-2&quot;&gt;블록체인 개요 (2)&lt;/a&gt;&lt;/li&gt; --&gt;
@@ -144,8 +183,144 @@ ex) - 투자냐, 투기냐
   &lt;li&gt;메타버스 : 가상을 뜻하는 ‘메타(Meta)’ + 하나의 세계를 의미하는 ‘유니버스(universe)’, 3차원 공간에 구축된 가상 세계에서 이용자들이 자신의 아바타를 가지고 교육, 사교, 업무, 여가 등 다양한 활동을 할 수 있게 한 서비스&lt;/li&gt;
   &lt;li&gt;화이트리스트(Whitelist) : NFT를 초기에 싸게 살 수 있는 권리&lt;/li&gt;
   &lt;li&gt;FTX : 전문 트레이더가 구축 한 암호 화폐 파생 거래소&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>MoKyungKim</name></author><category term="blockchain" /><summary type="html">NFT 기초지식이 부족한 사람들을 위한 NFT 가이드</summary></entry><entry><title type="html">테스팅하기</title><link href="http://localhost:4000/testing2" rel="alternate" type="text/html" title="테스팅하기" /><published>2022-04-10T10:00:00+09:00</published><updated>2022-04-10T10:00:00+09:00</updated><id>http://localhost:4000/testing2</id><content type="html" xml:base="http://localhost:4000/testing2">&lt;p&gt;&lt;img src=&quot;/assets/built/images/nft-640.jpg&quot; alt=&quot;이미지&quot; /&gt;
-테스팅하기&lt;/p&gt;</content><author><name>MoKyungKim</name></author><category term="blockchain" /><summary type="html">테스팅하기</summary></entry><entry><title type="html">프론트엔드 개요</title><link href="http://localhost:4000/frontend-basic" rel="alternate" type="text/html" title="프론트엔드 개요" /><published>2022-04-01T00:00:00+09:00</published><updated>2022-04-01T00:00:00+09:00</updated><id>http://localhost:4000/frontend-basic</id><content type="html" xml:base="http://localhost:4000/frontend-basic">&lt;p&gt;이 글은 프론트엔드 개요에 대해 작성했습니다.&lt;/p&gt;</content><author><name>MoKyungKim</name></author><category term="frontend" /><summary type="html">이 글은 프론트엔드 개요에 대해 작성했습니다.</summary></entry><entry><title type="html">백엔드 개요</title><link href="http://localhost:4000/blockchain-basic" rel="alternate" type="text/html" title="백엔드 개요" /><published>2022-03-31T00:00:00+09:00</published><updated>2022-03-31T00:00:00+09:00</updated><id>http://localhost:4000/blockchain-basic</id><content type="html" xml:base="http://localhost:4000/blockchain-basic">&lt;p&gt;이 글은 백엔드 개요에 대해 작성했습니다.&lt;/p&gt;</content><author><name>MoKyungKim</name></author><category term="backend" /><summary type="html">이 글은 백엔드 개요에 대해 작성했습니다.</summary></entry><entry><title type="html">블록체인 개요 (1)</title><link href="http://localhost:4000/blockchain-basic" rel="alternate" type="text/html" title="블록체인 개요 (1)" /><published>2022-03-31T00:00:00+09:00</published><updated>2022-03-31T00:00:00+09:00</updated><id>http://localhost:4000/blockchain-basic</id><content type="html" xml:base="http://localhost:4000/blockchain-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NFT 기초지식이 부족한 사람들을 위한 NFT 가이드&lt;/span&gt;&lt;/p&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>MoKyungKim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blockchain" />
+      
+
+      
+        <summary type="html">NFT 기초지식이 부족한 사람들을 위한 NFT 가이드</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">테스팅하기</title>
+      <link href="http://localhost:4000/testing2" rel="alternate" type="text/html" title="테스팅하기" />
+      <published>2022-04-10T10:00:00+09:00</published>
+      <updated>2022-04-10T10:00:00+09:00</updated>
+      <id>http://localhost:4000/testing2</id>
+      <content type="html" xml:base="http://localhost:4000/testing2">&lt;p&gt;&lt;img src=&quot;/assets/built/images/nft-640.jpg&quot; alt=&quot;이미지&quot; /&gt;
+테스팅하기&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>MoKyungKim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blockchain" />
+      
+
+      
+        <summary type="html">테스팅하기</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">프론트엔드 개요</title>
+      <link href="http://localhost:4000/frontend-basic" rel="alternate" type="text/html" title="프론트엔드 개요" />
+      <published>2022-04-01T00:00:00+09:00</published>
+      <updated>2022-04-01T00:00:00+09:00</updated>
+      <id>http://localhost:4000/frontend-basic</id>
+      <content type="html" xml:base="http://localhost:4000/frontend-basic">&lt;p&gt;이 글은 프론트엔드 개요에 대해 작성했습니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>MoKyungKim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="frontend" />
+      
+
+      
+        <summary type="html">이 글은 프론트엔드 개요에 대해 작성했습니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">백엔드 개요</title>
+      <link href="http://localhost:4000/blockchain-basic" rel="alternate" type="text/html" title="백엔드 개요" />
+      <published>2022-03-31T00:00:00+09:00</published>
+      <updated>2022-03-31T00:00:00+09:00</updated>
+      <id>http://localhost:4000/blockchain-basic</id>
+      <content type="html" xml:base="http://localhost:4000/blockchain-basic">&lt;p&gt;이 글은 백엔드 개요에 대해 작성했습니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>MoKyungKim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="backend" />
+      
+
+      
+        <summary type="html">이 글은 백엔드 개요에 대해 작성했습니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">블록체인 개요 (1)</title>
+      <link href="http://localhost:4000/blockchain-basic" rel="alternate" type="text/html" title="블록체인 개요 (1)" />
+      <published>2022-03-31T00:00:00+09:00</published>
+      <updated>2022-03-31T00:00:00+09:00</updated>
+      <id>http://localhost:4000/blockchain-basic</id>
+      <content type="html" xml:base="http://localhost:4000/blockchain-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;NFT 기초지식이 부족한 사람들을 위한 NFT 가이드&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;!-- &lt;li&gt;&lt;a href=&quot;./blockchain-basic&quot;&gt;블록체인 개요 (1)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./blockchain-2&quot;&gt;블록체인 개요 (2)&lt;/a&gt;&lt;/li&gt; --&gt;
@@ -158,7 +333,101 @@ ex) - 투자냐, 투기냐
    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Hello World&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bar&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>MoKyungKim</name></author><category term="blockchain" /><summary type="html">NFT 기초지식이 부족한 사람들을 위한 NFT 가이드</summary></entry><entry><title type="html">포스팅 제목</title><link href="http://localhost:4000/gettysburg-address" rel="alternate" type="text/html" title="포스팅 제목" /><published>2022-03-03T19:00:00+09:00</published><updated>2022-03-03T19:00:00+09:00</updated><id>http://localhost:4000/gettysburg-address</id><content type="html" xml:base="http://localhost:4000/gettysburg-address">&lt;p&gt;본문&lt;/p&gt;</content><author><name>MoKyungKim</name></author><summary type="html">본문</summary></entry><entry><title type="html">테스팅</title><link href="http://localhost:4000/testing" rel="alternate" type="text/html" title="테스팅" /><published>2022-02-28T10:00:00+09:00</published><updated>2022-02-28T10:00:00+09:00</updated><id>http://localhost:4000/testing</id><content type="html" xml:base="http://localhost:4000/testing">&lt;h2 id=&quot;제목&quot;&gt;제목&lt;/h2&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>MoKyungKim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blockchain" />
+      
+
+      
+        <summary type="html">NFT 기초지식이 부족한 사람들을 위한 NFT 가이드</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">포스팅 제목</title>
+      <link href="http://localhost:4000/gettysburg-address" rel="alternate" type="text/html" title="포스팅 제목" />
+      <published>2022-03-03T19:00:00+09:00</published>
+      <updated>2022-03-03T19:00:00+09:00</updated>
+      <id>http://localhost:4000/gettysburg-address</id>
+      <content type="html" xml:base="http://localhost:4000/gettysburg-address">&lt;p&gt;본문&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>MoKyungKim</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">본문</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">테스팅</title>
+      <link href="http://localhost:4000/testing" rel="alternate" type="text/html" title="테스팅" />
+      <published>2022-02-28T10:00:00+09:00</published>
+      <updated>2022-02-28T10:00:00+09:00</updated>
+      <id>http://localhost:4000/testing</id>
+      <content type="html" xml:base="http://localhost:4000/testing">&lt;h2 id=&quot;제목&quot;&gt;제목&lt;/h2&gt;
 &lt;h3 id=&quot;부제목&quot;&gt;부제목&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/nft-640.jpg&quot; alt=&quot;nft&quot; /&gt;
-포스팅 test 합니다.&lt;/p&gt;</content><author><name>MoKyungKim</name></author><category term="blockchain" /><summary type="html">제목 부제목 포스팅 test 합니다.</summary></entry></feed>
+포스팅 test 합니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>MoKyungKim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blockchain" />
+      
+
+      
+        <summary type="html">제목 부제목 포스팅 test 합니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
